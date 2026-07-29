@@ -3,7 +3,7 @@
 2. [Python公式サイト](https://www.python.org/downloads/)からPythonをインストールしてください。
 
 3. ターミナルやパワーシェルで
-4. ```bash
+```bash
 pip install pyautogui
 ```
    というコマンドを実行してください。
