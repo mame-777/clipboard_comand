@@ -2,8 +2,7 @@
 
 app.pyをダウンロードしてください。
 
-
-
+　
 手順②
 
 [Python公式サイト](https://www.python.org/downloads/)からPythonをインストールしてください。
