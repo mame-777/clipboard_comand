@@ -2,17 +2,17 @@
 
 2. [Python公式サイト](https://www.python.org/downloads/)からPythonをインストールしてください。
 
-3. ターミナルやパワーシェルで 
-```bash
+3. ターミナルやパワーシェルで
+4. ```bash
 pip install pyautogui
 ```
-というコマンドを実行してください。
+   というコマンドを実行してください。
 
 4. ターミナルやパワーシェルで 
 ```bash
 py app.py
 ```
-というコマンドを実行してください。
+   というコマンドを実行してください。
 
 5. clipboard_keyboard.sb3をダウンロードしてください。
 
