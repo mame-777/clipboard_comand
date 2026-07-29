@@ -2,13 +2,9 @@
 
 app.pyをダウンロードしてください。
 
-
-
 手順②
 
 [Python公式サイト](https://www.python.org/downloads/)からPythonをインストールしてください。
-
-
 
 手順③
 
@@ -18,8 +14,6 @@ pip install pyautogui
 ```
 というコマンドを実行してください。
 
-
-
 手順④
 
 ターミナルやパワーシェルで 
@@ -28,13 +22,9 @@ py app.py
 ```
 というコマンドを実行してください。
 
-
-
 手順⑤
 
 clipboard_keyboard.sb3をダウンロードしてください。
-
-
 
 手順⑥
 
